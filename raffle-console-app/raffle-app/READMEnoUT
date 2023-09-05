@@ -2,6 +2,10 @@
 
 java -jar raffle-app-1.0-SNAPSHOT.jar
 
+#Data store
+
+Inmemory datastore was used in this implementation. It can be converted to use exteranl database with MySQL or Redis.
+
 # Raffle App
 
 You will be writing a raffle app for an upcoming event. The raffle will be seed funded with an initial amount and attendees can purchase a ticket to participate in the draw. Attendees can also purchase additional tickets to increase their chances of winning, and maybe strike the jackpot!
