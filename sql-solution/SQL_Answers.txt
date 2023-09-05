@@ -1,5 +1,6 @@
 Used MySQL and MySQL workbench for this assigment.
 Exported database dump also included in submission.
+Answers for each question is inclueded and was implemented in the test_library database.
 
 Database Schema:
 
